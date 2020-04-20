@@ -30,7 +30,6 @@ public class Program {
 		System.out.print("Birth date (DD/MM/YYYY): ");
 		Date contractDate = sdf.parse(sc.next());
 		
-		//Client client = new Client (name, email, contractDate);
 		
 		System.out.println("Enter order data:");
 		System.out.print("Status: ");
